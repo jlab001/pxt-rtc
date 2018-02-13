@@ -4,7 +4,7 @@
 #include "MicroBit.h" //stuff we need
 
 //DS1307 constants
-#define DS1307_CONTROL_ADDR 0x68
+#define DS1307_CONTROL_ADDR 0x0d
 
 //datetime constants
 #define SECONDS_PER_DAY 86400L
