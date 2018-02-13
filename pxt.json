@@ -1,0 +1,21 @@
+{
+    "name": "ds1307",
+    "version": "0.0.1",
+    "description": "Tinkercademy package for the DS1307 Real-Time Clock",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "shims.d.ts",
+        "enums.d.ts",
+        "ds1307_package.cpp",
+        "DS1307.h",
+        "DS1307.cpp"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
